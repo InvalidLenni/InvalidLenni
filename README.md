@@ -27,10 +27,10 @@
 <a href="https://stackoverflow.com/users/14937630/invalidlenni" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/InvalidLenni" target="_blank">
+<a href="https://medium.com/@invalidlenni" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> 
-<a href="https://discord.com/user/814233207515643974" target="_blank">
+<a href="https://discord.com/users/814233207515643974" target="_blank">
 <img src=https://img.shields.io/badge/discord-%5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>  
 </div>  
