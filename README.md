@@ -7,7 +7,7 @@
 - 👤 [My discord server](https://discord.gg/89bJFGHjtJ)
 ## Currently listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=78buic09azh0aghqtt410l1s4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=78buic09azh0aghqtt410l1s4&redirect=true)
-## My skills
+## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invalidlenni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Lennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=invalidlenni&show_icons=true&theme=radical)
 ## Social Medias
