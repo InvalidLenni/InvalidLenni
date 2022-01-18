@@ -1,15 +1,21 @@
-### Hello! 👋
-
-- 🔭 I’m currently working on [**@Lixoja**](https://www.lixoja.xyz/invite)
-- 🌈 I'm a LGBTQ Activst.
-- 😄 Pronouns: He/Him & They/Them
-- 🚩 I'm from germany.
-- 👤 [My discord server](https://discord.gg/89bJFGHjtJ)
-## Currently listening to
+### Hellow :3!
+- 🚩 I'm Lenni, Student from Germany!
+- 😄 Pronouns: [He/Him](https://pronoun.is/he) & [They/Them](https://pronoun.is/they)
+- 👩‍💻 I'm a SecOps, DevOps, Full-Stack (front and backend) developer
+- 🔨 I'm a volunteer moderator (& manager) for several communities too!
+- 💻 [My website (invalidlenni.de)](https://invalidlenni.de)
+- 🔭 I’m currently working on [**@Lixoja**](https://www.lixoja.xyz/invite), [**@AntiScamBot** (Backend)](https://github.com/AntiScamBot/backend), [**@Disweb**](https://invalidlenni.gitbook.io/disweb/) and **many** other stuff! 
+- 🌈 I'm a LGBTQ Activst
+- 🎮 I'm a Gamer & small streamer
+- 👋 I'm very happy to meet new relaxed peoples! Join the [Lenni's Development Place](https://discord.gg/ntJEy5ADMu) Discord Server and then you can write with me! 😄
+# Currently listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=78buic09azh0aghqtt410l1s4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=78buic09azh0aghqtt410l1s4&redirect=true)
-## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invalidlenni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Lennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=invalidlenni&show_icons=true&theme=radical)
+## My github trophies
+[![Gitub Trophies](https://github-profile-trophy.vercel.app/?username=invalidlenni&theme=discord)](https://invalidlenni.de/)
+## My most used languages on github
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=invalidlenni&layout=compact)](https://invalidlenni.de/)
+## My github stats
+[![Lennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=invalidlenni&show_icons=true&theme=radical)](https://invalidlenni.de/)
 ## Social Medias
 <div align="center">
 <a href="https://github.com/invalidlenni" target="_blank">
