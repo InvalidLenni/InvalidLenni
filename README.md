@@ -38,7 +38,10 @@
 </a> 
 <a href="https://discord.com/users/814233207515643974" target="_blank">
 <img src=https://img.shields.io/badge/discord-%5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>  
+</a>
+<p align="left">
+<a href="https://discord.gg/ntJEy5ADMu" target="blank"><img align="center" src="https://invalidlenni.de/" alt="https://discord.gg/ntJEy5ADMu" height="30" width="40" /></a>
+</p>
 </div>  
   
 
