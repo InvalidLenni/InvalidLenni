@@ -6,7 +6,7 @@
 - 🔨 I'm a volunteer moderator (& manager) for several communities too!
 - 💻 [My website (invalidlenni.de)](https://invalidlenni.de)
 - 🔭 I’m currently working on [**@Lixoja**](https://www.lixoja.xyz/invite), [**@AntiScamBot** (Backend)](https://github.com/AntiScamBot/backend), [**@Disweb**](https://invalidlenni.gitbook.io/disweb/) and **many** other stuff! 
-- 🌈 I'm a LGBTQ Activst
+- 🌈 Bisexual and a LGBTQ Activst. (but I love more girls than boys, depending)
 - 🎮 I'm a Gamer & small streamer
 - 👋 I'm very happy to meet new relaxed peoples! Join the [Lenni's Development Place](https://discord.gg/ntJEy5ADMu) Discord Server and then you can write with me! 😄
 # Currently listening to
