@@ -2,7 +2,7 @@
 - 🚩 I'm Lenni, Student from Germany!
 - 😄 Pronouns: [He/Him](https://pronoun.is/he) & [They/Them](https://pronoun.they)
 - 👩‍💻 I'm a SecOps, DevOps, Full-Stack (front and backend) developer.
-- 😄 You can find the story from beginner to experienced developer [here](https://github.com/InvalidLenni/InvalidLenni/HISTORY.md). (without Markdown: https://github.com/InvalidLenni/InvalidLenni/HISTORY.md)
+- 😄 You can find the story from beginner to experienced developer [here](https://github.com/InvalidLenni/InvalidLenni/blob/main/HISTORY.md). (without Markdown: https://github.com/InvalidLenni/InvalidLenni/blob/main/HISTORY.md)
 - 🔨 I'm a volunteer moderator (& manager) for several communities too!
 - 💻 [My website (invalidlenni.de)](https://invalidlenni.de)
 - 🔭 I’m currently working on [**@Lixoja**](https://www.lixoja.xyz/invite), [**@AntiScamBot** (Backend)](https://github.com/AntiScamBot/backend), [**@Disweb**](https://invalidlenni.gitbook.io/disweb/) and **many** other stuff! 
