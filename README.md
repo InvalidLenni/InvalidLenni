@@ -43,8 +43,4 @@
 </div>  
   
 
-<br/>  
-
-# Play snake!
- 
- ​![​github contribution snake)[https://raw.githubusercontent.com/InvalidLenni/InvalidLenni/main/output/github-contribution-grid-snake.svg]
+</br>
