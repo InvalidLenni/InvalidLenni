@@ -44,3 +44,7 @@
   
 
 <br/>  
+
+# Play snake!
+ 
+ ​![​github contribution grid snake animation​](https://raw.githubusercontent.com/InvalidLenni/invalidlenni.github.io/output/github-contribution-grid-snake.svg)
