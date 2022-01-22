@@ -47,4 +47,4 @@
 
  
 
- ![github contribution grid snake animation](https://+github.com/InvalidLenni/InvalidLenni/blob/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://github.com/InvalidLenni/InvalidLenni/blob/output/github-contribution-grid-snake.svg)
