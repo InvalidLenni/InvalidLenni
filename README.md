@@ -20,6 +20,9 @@
 [![Lennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=invalidlenni&show_icons=true&theme=radical)](https://invalidlenni.de/)
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Which language &amp; framework are you using for a frontend?](https://dev.to/invalidlenni/which-language-framework-are-you-using-for-a-frontend-19mj)
+- [Day 15 of 100DaysOfCode](https://dev.to/invalidlenni/day-15-of-100daysofcode-n42)
+- [Day 14 of 100DaysOfCode](https://dev.to/invalidlenni/day-14-of-100daysofcode-5dlj)
 <!-- BLOG-POST-LIST:END -->
 
 
