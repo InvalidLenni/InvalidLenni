@@ -9,6 +9,7 @@
 - 🌈 Bisexual and a LGBTQ Activst. (but I love more girls than boys, depending)
 - 🎮 I'm a Gamer & small streamer
 - 👋 I'm very happy to meet new relaxed peoples! Join the [Lenni's Development Place](https://discord.gg/ntJEy5ADMu) Discord Server and then you can write with me! 😄
+
 # Currently listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=78buic09azh0aghqtt410l1s4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://invalidlenni.de/)
 ## My github trophies
@@ -17,6 +18,11 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=invalidlenni&layout=compact)](https://invalidlenni.de/)
 ## My github stats
 [![Lennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=invalidlenni&show_icons=true&theme=radical)](https://invalidlenni.de/)
+## Latest blog posts
+<!--BLOG-POST:START-->
+<!--BLOG-POST:END-->
+
+
 ## Social Medias
 <div align="center">
 <a href="https://github.com/invalidlenni" target="_blank">
