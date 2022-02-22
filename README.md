@@ -19,8 +19,8 @@
 ## My github stats
 [![Lennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=invalidlenni&show_icons=true&theme=radical)](https://invalidlenni.de/)
 ## Latest blog posts
-<!--BLOG-POST-LIST:START-->
-<!--BLOG-POST-LIST:END-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ## Social Medias
