@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://invalidlenni.de/](https://invalidlenni.de/)
 
-- 📝 I regularly write articles on [https://blog.invalidlenni.de/ and https://dev.to/invalidlenni](https://blog.invalidlenni.de/ and https://dev.to/invalidlenni)
+- 📝 I regularly write articles on [https://blog.invalidlenni.de/](https://blog.invalidlenni.de) and [dev.to](https://dev.to/InvalidLenni/)
 
 - 💬 Ask me about **python, js, html, css, java**
 
