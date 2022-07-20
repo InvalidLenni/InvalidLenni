@@ -1,13 +1,11 @@
 ### Hellow :3!
 - 🚩 I'm Lenni, Student from Germany!
-- 😄 Pronouns: [He/Him](https://pronoun.is/he) & [They/Them](https://pronoun.they)
-- 👩‍💻 I'm a SecOps, DevOps, Full-Stack (front and backend) developer.
-- 😄 You can find the story from beginner to experienced developer [here](https://github.com/InvalidLenni/InvalidLenni/blob/main/HISTORY.md). (without Markdown: https://github.com/InvalidLenni/InvalidLenni/blob/main/HISTORY.md)
+- 😄 Pronouns: [He/Him](https://pronoun.is/he).
+- 👩‍💻 I'm a Ethical Hacker, Bug Hunter, DevSecOps, Full-Stack (front and backend) and **verified** discord bot developer.
 - 🔨 I'm a volunteer moderator (& manager) for several communities too!
 - 💻 [My website (invalidlenni.de)](https://invalidlenni.de)
-- 🔭 I’m currently working on [**@Lixoja**](https://www.lixoja.xyz/invite), [**@AntiScamBot** (Backend)](https://github.com/AntiScamBot/backend), [**@Disweb**](https://invalidlenni.gitbook.io/disweb/) and **many** other stuff! 
-- 🌈 Bisexual and a LGBTQ Activst. (but I love more girls than boys, depending)
-- 🎮 I'm a Gamer & small streamer
+- 🔭 I’m currently working on **many stuffs**. You can see my current projects on my new website in the future. (Actually my old website is in maintainence.)
+- 🎮 I'm a Gamer & small streamer & youtuber.
 - 👋 I'm very happy to meet new relaxed peoples! Join the [Lenni's Development Place](https://discord.gg/ntJEy5ADMu) Discord Server and then you can write with me! 😄
 
 # Currently listening to
