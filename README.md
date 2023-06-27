@@ -1,12 +1,11 @@
 ### Hellow :3!
 - 🚩 I'm Lenni, Student from Germany!
 - 😄 Pronouns: [He/Him](https://pronoun.is/he).
-- 👩‍💻 I'm a Ethical Hacker, Bug Hunter, DevSecOps, Full-Stack (front and backend) and **verified** discord bot developer.
-- 🔨 I'm a volunteer moderator (& manager) for several communities too!
-- 💻 [My website (invalidlenni.de)](https://invalidlenni.de)
-- 🔭 I’m currently working on **many stuffs**. You can see my current projects on my new website in the future. (Actually my old website is in maintainence.)
-- 🎮 I'm a Gamer & small streamer & youtuber.
-- 👋 I'm very happy to meet new relaxed peoples! Join the [Lenni's Development Place](https://discord.gg/ntJEy5ADMu) Discord Server and then you can write with me! 😄
+- 👩‍💻 I'm a Full-Stack & Verified Discord Bot Developer.
+- 💻 [My website [l3nni.de](https://lenni.tech) soon back.
+- 🔭 I’m currently working on **some stuffs**.
+- 🎮 I like to play VALORANT and stream it on Twitch.
+- 👋 I'm very happy to meet new relaxed peoples! 
 
 # Currently listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=78buic09azh0aghqtt410l1s4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://invalidlenni.de/)
@@ -23,6 +22,8 @@
 - [Day 14 of 100DaysOfCode](https://dev.to/invalidlenni/day-14-of-100daysofcode-5dlj)
 <!-- BLOG-POST-LIST:END -->
 
+# Discord Presence
+[![Discord Presence](https://lanyard.cnrad.dev/api/466649289553346592)](https://discord.com/users/466649289553346592)
 
 ## Social Medias
 <div align="center">
