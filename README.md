@@ -1,8 +1,8 @@
-### Hellow :3!
+### Hi!
 - 🚩 I'm Lenni, Student from Germany!
 - 😄 Pronouns: [He/Him](https://pronoun.is/he).
 - 👩‍💻 I'm a Full-Stack & Verified Discord Bot Developer.
-- 💻 [My website [l3nni.de](https://lenni.tech) soon back.
+- 💻 My website [l3nni.de](https://lenni.tech) soon back.
 - 🔭 I’m currently working on **some stuffs**.
 - 🎮 I like to play VALORANT and stream it on Twitch.
 - 👋 I'm very happy to meet new relaxed peoples! 
@@ -22,7 +22,7 @@
 - [Day 14 of 100DaysOfCode](https://dev.to/invalidlenni/day-14-of-100daysofcode-5dlj)
 <!-- BLOG-POST-LIST:END -->
 
-# Discord Presence
+# Discord 
 [![Discord Presence](https://lanyard.cnrad.dev/api/466649289553346592)](https://discord.com/users/466649289553346592)
 
 ## Social Medias
